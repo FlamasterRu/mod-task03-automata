@@ -1,4 +1,5 @@
 #include <string>
+#include "Automata.h"
 
 int main()
 {
